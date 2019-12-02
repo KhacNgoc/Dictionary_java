@@ -1,0 +1,5 @@
+fine<html><i>fine</i><br/><ul><li><font color='#cc0000'><b>ổn</b></font></li></ul><ul><li><font color='#cc0000'><b>I'm fine (Tôi ổn.)</b></font></li></ul></html>
+I'm fine!<html><i>I'm fine!</i><br/><ul><li><font color='#cc0000'><b>Tôi ổn!</b></font></li></ul><ul><li><font color='#cc0000'><b>Biểu hiện một trạng thái  của con người.</b></font></li></ul></html>
+I don't understand.<html><i>I don't understand.</i><br/><ul><li><font color='#cc0000'><b>Tôi không hiểu.</b></font></li></ul><ul><li><font color='#cc0000'><b>Không hiểu.</b></font></li></ul></html>
+If you don't mind.<html><i>If you don't mind.</i><br/><ul><li><font color='#cc0000'><b>Nếu em không phiền.</b></font></li></ul><ul><li><font color='#cc0000'><b>Thế đấy.</b></font></li></ul></html>
+play<html><i>play</i><br/><ul><li><font color='#cc0000'><b>choi</b></font></li></ul><ul><li><font color='#cc0000'><b>...</b></font></li></ul></html>
